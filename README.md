@@ -3,7 +3,6 @@
 <p>Food website was designed using REACT. Home, Menu, Contact and About pages were created.</p>
 <hr></hr>
 
-![][def]
+![](src\assets\burger.gif)
 
 
-[def]: src\assets\burger.gif
