@@ -3,4 +3,4 @@
 <p>Food website was designed using REACT. Home, Menu, Contact and About pages were created.</p>
 <hr></hr>
 
-![](C:\Users\techno\Desktop\computer\src\assets\burger.gif)
+![](src\assets\burger.gif)
